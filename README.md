@@ -10,6 +10,10 @@ for an expanding universe in 4 to 7 spacetime dimensions. The extra dimensions a
 
 Every case is solved from scratch, one field equation at a time, in a Mathematica notebook that shows each step: setting up the metric, computing the Christoffel symbols and the Ricci tensor, and solving the field equations, with explanations along the way. The aim is to show *how* such solutions are found, including the dead ends, not just the finished results.
 
+## Role of AI in this work
+
+The notebooks are my own work. Each case was reviewed by Claude, an AI assistant made by Anthropic. Claude independently checked the derivations and the final solutions with SymPy (Python) and Mathematica, including substituting each solution back into the field equations and verifying its constraints. It also reviewed the notebook text and the summary tables for consistency, and reported errors, which I corrected. Claude also identified related topics (Kaluza–Klein "bubbles of nothing", the Kasner conditions, Myers' theorem and the curvature test, Witten's instability) and wrote their descriptions and references. The Introduction and Summary was drafted by Claude from the notebooks under my direction.
+
 ## Start here: Introduction and Summary
 
 This document summarizes all the cases in two tables, explains what the results mean, and includes a glossary with a worked 5D example.
