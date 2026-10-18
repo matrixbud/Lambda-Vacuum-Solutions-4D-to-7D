@@ -60,6 +60,15 @@ It asks what the torus cases would look like with four circles (8D_1), and what 
 - [Verification notebook (Mathematica)](4%20AI%20Supplement%20-%20Torus%20Solutions%20Beyond%20GRW/Torus%20Solutions%20Beyond%20GRW.nb)
 - [Verification notebook (PDF)](4%20AI%20Supplement%20-%20Torus%20Solutions%20Beyond%20GRW/Torus%20Solutions%20Beyond%20GRW%20-%20notebook.pdf)
 
+## Notes for extending the notebooks
+
+*Prepared by Claude (Anthropic) at my request.*
+
+Metrics and field equations for the next steps, written in the notebooks' conventions so they can be entered directly: matter and radiation, rotation (the Kerr–de Sitter metric), two scale factors and Ricci-flat compact spaces such as Calabi–Yau spaces, and electromagnetism, both in four dimensions and from a curled Kaluza–Klein circle.
+
+- [Extending the Notebooks (PDF)](5%20Notes%20for%20Extending%20the%20Notebooks/Extending%20the%20Notebooks.pdf)
+- [Extending the Notebooks (Word)](5%20Notes%20for%20Extending%20the%20Notebooks/Extending%20the%20Notebooks.docx)
+
 ## License
 
 GNU General Public License v3.0. See [LICENSE](LICENSE).
