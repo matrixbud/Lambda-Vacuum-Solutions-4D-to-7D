@@ -14,6 +14,14 @@ Every case is solved from scratch, one field equation at a time, in a Mathematic
 
 The notebooks are my own work. Each case was reviewed by Claude, an AI assistant made by Anthropic. Claude independently checked the derivations and the final solutions with SymPy (Python) and Mathematica, including substituting each solution back into the field equations and verifying its constraints. It also reviewed the notebook text and the summary tables for consistency, and reported errors, which I corrected. Claude also identified related topics (Kaluza–Klein "bubbles of nothing", the Kasner conditions, Myers' theorem and the curvature test, Witten's instability) and wrote their descriptions and references. The Introduction and Summary was drafted by Claude from the notebooks under my direction.
 
+## New to general relativity? A primer for students
+
+If you have not yet studied general relativity, begin with the primer. It explains the metric, the field equations, and how the notebooks solve them, and works through two classic examples: the Schwarzschild–de Sitter solution and the expanding universe. *(Based on my earlier draft; edited and corrected by Claude.)*
+
+- [Primer for Students (PDF)](0%20Primer%20for%20Students/Primer%20for%20Students.pdf)
+- [Primer for Students (Word)](0%20Primer%20for%20Students/Primer%20for%20Students.docx)
+- Worked example, Schwarzschild–de Sitter: [4D_b.pdf](0%20Primer%20for%20Students/4D_b.pdf) and [4D_b.nb](0%20Primer%20for%20Students/4D_b.nb)
+
 ## Start here: Introduction and Summary
 
 This document summarizes all the cases in two tables, explains what the results mean, and includes a glossary with a worked 5D example.
