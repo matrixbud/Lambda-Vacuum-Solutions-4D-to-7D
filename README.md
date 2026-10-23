@@ -77,6 +77,16 @@ Metrics and field equations for the next steps, written in the notebooks' conven
 - [Extending the Notebooks (PDF)](5%20Notes%20for%20Extending%20the%20Notebooks/Extending%20the%20Notebooks.pdf)
 - [Extending the Notebooks (Word)](5%20Notes%20for%20Extending%20the%20Notebooks/Extending%20the%20Notebooks.docx)
 
+## Toward Calabi–Yau: two scale factors and the stabilization problem
+
+A capstone for intermediate students. String theory curls six extra dimensions into a Calabi–Yau space, whose metric no one can write down. These notebooks show why cosmology does not need it: giving the curled space its own scale factor b(t), the field equations depend only on its dimension. They then show, in the simplest setting, the moduli-stabilization problem: with a positive cosmological constant, the curled space cannot keep a fixed size.
+
+- [Toward Calabi–Yau: Introduction (PDF)](6%20Toward%20Calabi-Yau/Toward%20Calabi-Yau%20-%20Introduction.pdf) · [Word](6%20Toward%20Calabi-Yau/Toward%20Calabi-Yau%20-%20Introduction.docx) *(written by Claude at my request)*
+- 6D, a torus with its own scale factor: [6D_1 Two Scale Factors.pdf](6%20Toward%20Calabi-Yau/6D_1%20Two%20Scale%20Factors.pdf) and [.nb](6%20Toward%20Calabi-Yau/6D_1%20Two%20Scale%20Factors.nb)
+- 10D, six circles standing in for a Calabi–Yau space: [10D_1.pdf](6%20Toward%20Calabi-Yau/10D_1.pdf) and [10D_1.nb](6%20Toward%20Calabi-Yau/10D_1.nb)
+
+*Role of AI: the notebooks are my own work. The connection to Calabi–Yau compactification and the direction of this section were suggested by Claude, which also checked the results.*
+
 ## License
 
 GNU General Public License v3.0. See [LICENSE](LICENSE).
