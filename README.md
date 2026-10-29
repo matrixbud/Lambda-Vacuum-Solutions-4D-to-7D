@@ -87,6 +87,14 @@ A capstone for intermediate students. String theory curls six extra dimensions i
 
 *Role of AI: the notebooks are my own work. The connection to Calabi–Yau compactification and the direction of this section were suggested by Claude, which also checked the results.*
 
+## Kaluza–Klein electromagnetism: the Coulomb law from a fifth dimension
+
+The payoff that made Kaluza–Klein theory famous: momentum around a curled fifth dimension acts as electric charge. Part a adds a small cross term g₀₄ to the 5D Schwarzschild metric and recovers the Coulomb potential. Part b gives the exact solution, a black string boosted around the circle. Its charge is Q ∝ m sinh 2β, and the resulting 4D black hole carries a scalar (dilaton) field, so it is not Reissner–Nordström. Unlike the case solutions, this notebook is static and sets Λ = 0. It builds on 5D and on the Schwarzschild–de Sitter notebook 4D_b in the primer.
+
+- [5D_b.pdf](7%20Kaluza-Klein%20Electromagnetism/5D_b.pdf) and [5D_b.nb](7%20Kaluza-Klein%20Electromagnetism/5D_b.nb)
+
+*Role of AI: the notebook is my own work, following the Kaluza–Klein section of the Notes for extending the notebooks. Claude checked the results and the explanations.*
+
 ## License
 
 GNU General Public License v3.0. See [LICENSE](LICENSE).
