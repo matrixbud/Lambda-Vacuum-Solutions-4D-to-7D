@@ -36,7 +36,7 @@ This document summarizes all the cases in two tables, explains what the results 
 - A curvature test eliminates whole families. Curled spheres force the whole universe to be closed, with a size comparable to the sphere. Only the circle cases survive as candidates for our universe.
 - In 7D_1 (three circles), the exponents of the solution obey the Kasner conditions of 1921.
 
-These are simplified models (vacuum only, one scale factor, diagonal metrics), not yet realistic models of our universe. Section 8 of the Introduction and Summary lists the next steps.
+These are simplified models (vacuum only, one scale factor, diagonal metrics), not yet realistic models of our universe. Section 8 of the Introduction and Summary lists the next steps. Folders 4, 6, and 7 work out several of them: a free radial coefficient B, a separate scale factor for the curled space, and Kaluza–Klein electromagnetism (see the sections below).
 
 ## The case solutions
 
