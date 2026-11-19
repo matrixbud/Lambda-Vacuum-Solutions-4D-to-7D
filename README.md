@@ -31,7 +31,7 @@ This document summarizes all the cases in two tables, explains what the results 
 
 **Main findings:**
 
-- Every case has exact solutions. Each comes in a standard form (GRW, generalized Robertson–Walker) and a free-gauge form (FG-GRW), which is the same spacetime in a more general radial coordinate.
+- Every case has exact solutions. Each comes in a standard form (GRW, generalized Robertson–Walker) and a form with gauge freedom (GF-GRW), which is the same spacetime in a more general radial coordinate.
 - Requiring smoothness where a curled circle shrinks to zero size (a Kaluza–Klein "bubble of nothing") fixes a constant of the solution in closed form.
 - A curvature test eliminates whole families. Curled spheres force the whole universe to be closed, with a size comparable to the sphere. Only the circle cases survive as candidates for our universe.
 - In 7D_1 (three circles), the exponents of the solution obey the Kasner conditions of 1921.
